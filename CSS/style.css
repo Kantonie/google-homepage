@@ -1,0 +1,32 @@
+html {
+    background: white;
+}
+
+main {
+    margin: 0px;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 9rem;
+}
+
+#tekst {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: darkgray;
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+#footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: darkgray;
+    position: absolute;
+    bottom: 10px;
+
+}
