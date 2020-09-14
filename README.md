@@ -1,0 +1,1 @@
+Learn things blabla get smart bla bla get to know code bla bla become a epic nerd bla bla.
